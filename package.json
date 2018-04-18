@@ -1,6 +1,6 @@
 {
   "name": "angular-sortablejs-float",
-  "version": "2.5.3",
+  "version": "2.5.4",
   "description": "Fork of SortableJS for Angular to work with sortablejs-float.",
   "main": "./dist/index.js",
   "typings": "./dist/index",

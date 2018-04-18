@@ -19,7 +19,7 @@ import { SortablejsService } from './sortablejs.service';
 import { SortablejsBindingTarget } from './sortablejs-binding-target';
 import { SortablejsBindings } from './sortablejs-bindings';
 
-const OriginalSortable: any = require('sortablejs');
+const OriginalSortable: any = require('sortablejs-float');
 
 @Directive({
   selector: '[sortablejs]'
