@@ -1,7 +1,7 @@
 {
-  "name": "angular-sortablejs",
+  "name": "angular-sortablejs-float",
   "version": "2.5.2",
-  "description": "SortableJS for Angular",
+  "description": "Fork of SortableJS for Angular to work with sortablejs-float.",
   "main": "./dist/index.js",
   "typings": "./dist/index",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SortableJS/angular-sortablejs.git"
+    "url": "git+https://github.com/wchid/angular-sortablejs.git"
   },
   "keywords": [
     "angular2-sortable",
@@ -28,9 +28,9 @@
   "author": "smnbbrv",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SortableJS/angular-sortablejs/issues"
+    "url": "https://github.com/wchid/angular-sortablejs/issues"
   },
-  "homepage": "https://github.com/SortableJS/angular-sortablejs#readme",
+  "homepage": "https://github.com/wchid/angular-sortablejs#readme",
   "devDependencies": {
     "@angular/compiler": "4.0.1",
     "@angular/compiler-cli": "4.0.1",
@@ -40,13 +40,13 @@
     "git-validate": "2.2.2",
     "rimraf": "2.6.1",
     "rxjs": "^5.5.2",
-    "sortablejs": "^1.5.1",
+    "sortablejs-float": "^1.5.1",
     "tslint": "5.1.0",
     "typescript": "2.2.2",
     "watch": "^1.0.2"
   },
   "peerDependencies": {
-    "sortablejs": ">=1.5.1",
+    "sortablejs-float": ">=1.5.1",
     "@angular/core": ">=4.0.0"
   },
   "files": [
